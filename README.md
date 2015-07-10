@@ -10,3 +10,5 @@ Differences in this control in regard to the blog post:
 * MultiSelectTreeView inherits WPF TreeView instead of attaching behavior
 * Support from keyboard selection in addition to mouse selection
 * Support for SHIFT + CTRL selection
+
+For usage example, see the TreeViewDemo project.
